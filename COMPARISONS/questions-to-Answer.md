@@ -3,8 +3,6 @@
 No, probably not. Not only do the Speed/Tachs have different part numbers, let's cross-reference the schematics. Here is the ABS Model:
 ![Schematics](/COMPARISONS/Schematics/ABS.png) 
 
-ffmpeg -I ABS.png -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
-
 And the Non-ABS Model:
 
 ![Schematics](/COMPARISONS/Schematics/NON-ABS.png)
